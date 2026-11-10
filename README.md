@@ -220,7 +220,7 @@ Continuously exploring new technologies and building practical solutions.
 
 <div align="center">
 
-### "Consistency beats motivation. Keep learning, keep building."
+### "Luck favors those who dare to try."
 
 </div>
 
