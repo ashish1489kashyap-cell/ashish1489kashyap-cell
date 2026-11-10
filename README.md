@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6A00,100:FFD700&height=200&section=header&text=Ashish%20Kashyap&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6A00,100:FFD700&height=200&section=header&text=Ashish%20Kashyap&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Student&descAlignY=60&descSize=20" width="100%" />
 
 <h3>Building ideas into real-world solutions 🚀</h3>
 
