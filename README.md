@@ -45,7 +45,6 @@ class AshishKashyap:
             "Data Structures & Algorithms",
             "Building Real-World Projects"
         ]
-        self.goal = "Become a skilled Software Engineer"
 
     def say_hi(self):
         print("Always learning, building and improving!")
