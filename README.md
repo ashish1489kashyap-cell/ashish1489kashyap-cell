@@ -1,19 +1,25 @@
  
-<!-- ================= HEADER ================= -->
+<!-- ===================================================== -->
+<!--                  ASHISH KASHYAP                       -->
+<!--                  GITHUB PROFILE                       -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ashish%20Kashyap&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6A00,100:FFD700&height=200&section=header&text=Ashish%20Kashyap&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=17" width="100%" />
 
 <h3>Building ideas into real-world solutions 🚀</h3>
 
 <p>
-  <a href="https://github.com/ashish1489kashyap-cell">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://github.com/ashish1489kashyap-cell">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
 </p>
 
 </div>
@@ -30,6 +36,12 @@ class AshishKashyap:
         self.education = "B.Tech CSE - AI/ML"
         self.university = "Bennett University"
         self.location = "India"
+
+        self.roles = [
+            "AI/ML Student",
+            "Software Developer",
+            "Problem Solver"
+        ]
 
         self.interests = [
             "Artificial Intelligence",
@@ -56,23 +68,22 @@ me.say_hi()
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,js" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,js" />
 </p>
 
 ### AI / ML & Data Analysis
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ### Backend & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,maven,git,github,vscode,docker,mysql" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,git,github,vscode,docker,mysql" />
 </p>
 
 ---
@@ -85,43 +96,44 @@ me.say_hi()
 
 ### 🛡️ BrandSentry
 
-AI-powered pre-publication brand governance platform.
+AI-Powered Pre-Publication Brand Governance Platform.
 
-- Brand content analysis
-- AI-powered governance
+- Brand content governance
+- AI-powered content analysis
 - Modern SaaS interface
 
-**Stack:** Next.js, React, TypeScript
+**Tech:** Next.js, React, TypeScript, Tailwind CSS
 
-[View Repository](https://github.com/ashish1489kashyap-cell/brandsentry)
-
-</td>
-<td width="50%">
-
-### 💼 Smart Job Scraper
-
-A project focused on automating job discovery and simplifying job searching.
-
-- Job data collection
-- Automated job discovery
-- Structured job information
-
-**Stack:** Python / Web Technologies
+<a href="https://github.com/ashish1489kashyap-cell/brandsentry">View Repository →</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📈 Crypto Alert Engine
 
-A Java-based cryptocurrency market alert system.
+Java-based cryptocurrency market alert system.
 
-- Market monitoring
-- Price alerts
-- Backend architecture
+- Cryptocurrency market monitoring
+- Price alert functionality
+- Backend development
 
-**Stack:** Java, Spring Boot, Redis, Kafka
+**Tech:** Java, Spring Boot, Redis, Kafka
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💼 Smart Job Scraper
+
+An automated job discovery project.
+
+- Job data collection
+- Automated job searching
+- Structured job information
+
+**Tech:** Python, Web Technologies
 
 </td>
 <td width="50%">
@@ -132,9 +144,33 @@ Junior Astronaut Mission Trainer.
 
 - Space education
 - Interactive learning
-- NASA Space Apps Challenge project
+- Astronomy-focused experience
 
-**Focus:** Educational Technology
+**Event:** NASA Space Apps Challenge 2026
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌍 Smart Tourism
+
+Smart tourism platform developed for a hackathon.
+
+- Destination awareness
+- Local guide discovery
+- Travel cost awareness
+- Travel safety features
+
+**Event:** Smart India Hackathon
+
+</td>
+<td width="50%">
+
+### 💡 More Projects
+
+Continuously exploring new technologies and building practical solutions.
 
 </td>
 </tr>
@@ -142,10 +178,10 @@ Junior Astronaut Mission Trainer.
 
 ---
 
-## 🏆 Hackathons & Activities
+## 🏆 Hackathons & Achievements
 
 - 🚀 NASA Space Apps Challenge 2026
-- 💡 Smart India Hackathon (SIH)
+- 🇮🇳 Smart India Hackathon (SIH)
 - 🏅 Adobe Hackathon – Round 1
 - ⚡ CodeAxis Hackathon
 - 🛰️ ISRO Hackathon
@@ -156,13 +192,13 @@ Junior Astronaut Mission Trainer.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashish1489kashyap-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashish1489kashyap-cell&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish1489kashyap-cell&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ashish1489kashyap-cell&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=ashish1489kashyap-cell&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -172,15 +208,15 @@ Junior Astronaut Mission Trainer.
 
 | Area | Focus |
 |---|---|
-| DSA | Problem solving and algorithms |
-| AI / ML | Machine Learning concepts |
-| Database | MySQL and SQL |
-| Backend | Java and MERN fundamentals |
-| Development | Building practical projects |
+| DSA | Problem Solving & Algorithms |
+| AI / ML | Machine Learning Concepts |
+| Database | MySQL & DBMS |
+| Backend | Java & Backend Development |
+| Development | Building Practical Projects |
 
 ---
 
-## 💭 My Philosophy
+## 💭 A Quote I Live By
 
 <div align="center">
 
@@ -195,21 +231,21 @@ Junior Astronaut Mission Trainer.
 <div align="center">
 
 <a href="https://github.com/ashish1489kashyap-cell">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
 <br/><br/>
 
 ⭐ Thanks for visiting my profile! Let's connect and build something meaningful.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF6A00,100:FFD700&height=120&section=footer" width="100%" />
 
 </div>
