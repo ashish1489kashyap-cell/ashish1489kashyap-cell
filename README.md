@@ -1,8 +1,5 @@
  
-<!-- ===================================================== -->
-<!--                  ASHISH KASHYAP                       -->
-<!--                  GITHUB PROFILE                       -->
-<!-- ===================================================== -->
+<!-- ================= ASHISH KASHYAP ================= -->
 
 <div align="center">
 
@@ -12,13 +9,13 @@
 
 <p>
 <a href="https://github.com/ashish1489kashyap-cell">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/ashish-kashyap-b82743206">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
@@ -68,7 +65,7 @@ me.say_hi()
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,js" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,mysql" />
 </p>
 
 ### AI / ML & Data Analysis
@@ -98,8 +95,8 @@ me.say_hi()
 
 AI-Powered Pre-Publication Brand Governance Platform.
 
-- Brand content governance
 - AI-powered content analysis
+- Brand governance
 - Modern SaaS interface
 
 **Tech:** Next.js, React, TypeScript, Tailwind CSS
@@ -115,7 +112,7 @@ Java-based cryptocurrency market alert system.
 
 - Cryptocurrency market monitoring
 - Price alert functionality
-- Backend development
+- Backend architecture
 
 **Tech:** Java, Spring Boot, Redis, Kafka
 
@@ -127,7 +124,7 @@ Java-based cryptocurrency market alert system.
 
 ### 💼 Smart Job Scraper
 
-An automated job discovery project.
+Automated job discovery project.
 
 - Job data collection
 - Automated job searching
@@ -220,7 +217,7 @@ Continuously exploring new technologies and building practical solutions.
 
 <div align="center">
 
-### "Luck favors those who dare to try."
+<h2>🔥 "Luck favors those who dare to try." 🔥</h2>
 
 </div>
 
@@ -231,15 +228,15 @@ Continuously exploring new technologies and building practical solutions.
 <div align="center">
 
 <a href="https://github.com/ashish1489kashyap-cell">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/ashish-kashyap-b82743206">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
 <br/><br/>
