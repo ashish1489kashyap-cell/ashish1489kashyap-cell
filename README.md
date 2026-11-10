@@ -36,8 +36,6 @@ class AshishKashyap:
 
         self.roles = [
             "AI/ML Student",
-            "Software Developer",
-            "Problem Solver"
         ]
 
         self.interests = [
@@ -47,8 +45,6 @@ class AshishKashyap:
             "Data Structures & Algorithms",
             "Building Real-World Projects"
         ]
-
-        self.mindset = "Consistency > Motivation"
         self.goal = "Become a skilled Software Engineer"
 
     def say_hi(self):
